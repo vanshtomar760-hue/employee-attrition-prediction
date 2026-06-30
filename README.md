@@ -65,3 +65,8 @@ Scikit-Learn
 Matplotlib  
 Seaborn  
 Jupyter Notebook
+
+## Live Demo
+
+Streamlit App:
+https://employee-attrition-prediction-c9n3e5itbc9pvqfynivpkw.streamlit.app/
